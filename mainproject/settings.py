@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-vz2b_evbdt@(3$lp@7k-i=##_3*4-t8((8(e+$8tmlbfx*(j+b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["tourism-shema-production.up.railway.app"]
 
 
 # Application definition
